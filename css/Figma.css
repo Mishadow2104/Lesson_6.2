@@ -51,7 +51,7 @@ body {
 
 .title {
 	font-family: "Circular Std", sans-serif;
-	font-style: medium;
+	font-style: normal;
 	font-weight: 700;
 	line-height: 82px;
 	font-size: 65px;
@@ -69,7 +69,7 @@ body {
 	margin: auto;
 	color: #5F5F5F;
 	font-size: 20px;
-	font-style: medium;
+	font-style: normal;
 	font-weight: 500;
 	margin-bottom: 224px;
 	line-height: 25px;
@@ -84,7 +84,7 @@ body {
 .great {
 	font-size: 34px;
 	font-weight: 700;
-	font-style: bold;
+	font-style: normal;
 	line-height: 44px;
 	margin-bottom: 20px;
 	color: #505050;
@@ -92,7 +92,7 @@ body {
 .discript-text {
 	font-size: 18px;
 	font-weight: 500;
-	font-style: medium;
+	font-style: normal;
 	line-height: 28px;
 	color: #5F5F5F;
 	margin-bottom: 125px;
